@@ -1,10 +1,10 @@
 body{
 
-    background-color: rgb(202, 238, 226);
+    background-color:#EFFFFD;
 }
 
 hr{
-    background-color:rgb(202, 238, 226);
+    
     border-style: none;
     border-top-style: dotted;
     border-color:gray;
